@@ -181,7 +181,6 @@ public class DANGNHAPFORM extends javax.swing.JDialog {
            new MENUFORM(chucVu).setVisible(true);
         }
         
-        
     }//GEN-LAST:event_btndangnhapActionPerformed
 
     private void btnthoatActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnthoatActionPerformed
